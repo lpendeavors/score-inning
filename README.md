@@ -1,6 +1,6 @@
 # Score Inning
 
-Astros full-stack question #1.
+Astros full-stack question #2.
 
 Requrires [.NET core](https://dotnet.microsoft.com/download).
 
